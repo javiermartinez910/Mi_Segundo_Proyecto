@@ -1,6 +1,6 @@
 # calculadora.py
 # Script básico para operaciones matemáticas
-
+# operaciones basicas
 numero_1 = float(input("Primer número: "))
 numero_2 = float(input("Segundo número: "))
 operacion = input("Operación (+, -, *, /): ")
